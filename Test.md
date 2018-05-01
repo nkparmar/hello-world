@@ -28,7 +28,7 @@ The PFM_NAME property needs the following syntax:
 
   2. You can export any clock source with the platform, but for each clock you must also export synchronized reset signals using a Processor System Reset IP block in the platform. The `PFM.CLOCK` property can be set on BD cell, external port, or external interface. Accordingly, define clocks by typing the following Tcl commands in the Tcl Console and press Enter.
     
-        set_property PFM.CLOCK { \
+        set_property PFM.CLOCK { \ 
     	clk_out1 {id "2" is_default "true" proc_sys_reset "proc_sys_reset_0" } \
     	clk_out2 {id "1" is_default "false" proc_sys_reset "proc_sys_reset_1" } \
     	clk_out3 {id "0" is_default "false" proc_sys_reset "proc_sys_reset_2" } \
