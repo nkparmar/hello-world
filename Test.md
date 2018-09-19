@@ -86,7 +86,7 @@ The following is the list of tutorials: `Feel free to edit`
   </tr>
 
   <tr>
-  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+  <td colspan=2 width=100%><sup>We can even reduce the font size. Something like this! This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</sup></td>
   </tr>
 
   <tr>
