@@ -65,49 +65,7 @@ Provide a brief overview of the tutorial(s) here.
 
 The following is the list of tutorials: `Feel free to edit`
 
-## Table Format 1
-<table style="width:100%">
-  <tr>
-  <th>Level</th>
-  <th>Tutorial</th>
-  <th>Kernel</th>
-  <th>Description</th>
-  </tr>
-  <tr>
-  <td rowspan=2 align="center"><b>Beginner</b></td>
-  <td><a href="">Getting Started with C Kernels</a></td>
-  <td>C</td>
-  <td>Rework of existing tutorial</td>
-  </tr>
-  <tr>
-  <td><a href="">Getting Started with RTL Kernels</a></td>
-  <td>RTL</td>
-  <td>RTL to .xo, import in GUI, build and run</td>
-  </tr>
-  <tr>
-<td rowspan=4 Align="center"><b>Intermediate</b></td>
-<td><a href="">Mixing C and RTL Kernels</a></td>
-<td>C and RTL</td>
-<td>Important to show it's not "either/or"</td>
-</tr>
-<tr>
-<td><a href="">HLS Kernel optimizations</a></td>
-<td>C</td>
-<td>512-bit interfaces, bursting, dataflow</td>
-</tr>
-<tr>
-<td><a href="">Profiling with SDAccel</a></td>
-<td>C or RTL</td>
-<td>SW pipelining, using multiple CUs</td>
-</tr>
-<tr>
-<td><a href="">Multiple DDR Banks</a></td>
-<td>C or RTL</td>
-<td>Some description here...</td>
-</tr>
-</table>
-
-## Table Format 2
+## Suggested Table Format
 
 <table style="width:100%">
   <tr>
