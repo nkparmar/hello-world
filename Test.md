@@ -65,8 +65,6 @@ Provide a brief overview of the tutorial(s) here.
 
 The following is the list of tutorials: `Feel free to edit`
 
-## Suggested Table Format
-
 <table style="width:100%">
   <tr>
   <th>Level</th>
