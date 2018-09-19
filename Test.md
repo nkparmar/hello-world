@@ -16,28 +16,28 @@
   <td rowspan=2 align="center"><b>Beginner</b></td>
   <td>Getting Started with C Kernels</td>
   <td>C</td>
-  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed. </td>
   </tr>
   <tr>
   <td>Getting Started with RTL Kernels</td>
   <td>RTL</td>
-  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+  <td>These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. </td>
   </tr>
   <tr>
 <td rowspan=4 Align="center"><b>Intermediate</b></td>
 <td>Mixing C and RTL Kernels</td>
 <td>C and RTL</td>
-<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+<td>That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
 </tr>
 <tr>
 <td>HLS Kernel optimizations</td>
 <td>C</td>
-<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
 </tr>
 <tr>
 <td>Profiling with SDAccel</td>
 <td>C or RTL</td>
-<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+<td>Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
 </tr>
 <tr>
 <td>Multiple DDR Banks</td>
@@ -121,7 +121,7 @@ The following is the list of tutorials: `Feel free to edit`
   <td>C</td>
   </tr>
   <tr>
-  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing.</td>
+  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
   </tr>
 
   <tr>
@@ -130,7 +130,7 @@ The following is the list of tutorials: `Feel free to edit`
   </tr>
 
   <tr>
-  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing.</td>
+  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
   </tr>
 
   <tr>
@@ -139,7 +139,7 @@ The following is the list of tutorials: `Feel free to edit`
 <td>C and RTL</td>
 </tr>
 <tr>
-<td colspan=2 width=100%>Important to show it's not "either/or"</td>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
 </tr>
 
 <tr>
@@ -148,7 +148,7 @@ The following is the list of tutorials: `Feel free to edit`
 </tr>
 
 <tr>
-<td colspan=2 width=100%>512-bit interfaces, bursting, dataflow</td>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
 </tr>
 
 <tr>
@@ -157,7 +157,7 @@ The following is the list of tutorials: `Feel free to edit`
 </tr>
 
 <tr>
-<td colspan=2 width=100%>SW pipelining, using multiple CUs</td>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
 </tr>
 
 <tr>
@@ -166,7 +166,7 @@ The following is the list of tutorials: `Feel free to edit`
 </tr>
 
 <tr>
-<td colspan=2 width=100%>Some description here...</td>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
 </tr>
 
 </table>
