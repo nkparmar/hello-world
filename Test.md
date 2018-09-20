@@ -1,5 +1,7 @@
 :pushpin: We need to alter the file structure and ensure that all the files are in the same hierarchy. As per email from Thomas, the top-down and bottom-up approach is not valid anymore. Once the file hierarchy is set, we will have to add the cross-references to the selected template.
 
+<hr/>
+
 <details>
   <summary>Click here to view Template 1</summary>
 
@@ -48,8 +50,10 @@
 </table>
 </details>
 
+<hr/>
+
 <details>
-  <summary> Click here to view Template 2</summary>
+  <summary>Click here to view Template 2</summary>
   
 # Template 2
 <table style="width:100%">
@@ -107,6 +111,8 @@
 </tr>
 </table>
 </details>
+
+<hr/>
 
 <details>
   <summary>Click here to view Template 3</summary>
