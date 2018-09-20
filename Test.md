@@ -1,5 +1,8 @@
 :pushpin: We need to alter the file structure and ensure that all the files are in the same hierarchy. As per email from Thomas, the top-down and bottom-up approach is not valid anymore. Once the file hierarchy is set, we will have to add the cross-references to the selected template.
 
+<details>
+  <summary>Click here to view Template 1</summary>
+
 # Template 1
 <table style="width:100%">
   <tr>
@@ -43,7 +46,11 @@
     <td width="35%" align="center"><a href="./top-down-c/using-mult-cu.md">Using Multiple CUs</a></td>
   </tr>
 </table>
+</details>
 
+<details>
+  <summary> Click here to view Template 2</summary>
+  
 # Template 2
 <table style="width:100%">
   <tr>
@@ -52,15 +59,14 @@
   </tr>
   </table>
   
+  ## For Beginners
   <table style="width:100%">
   <tr>
-  <th>Level</th>
   <th>Tutorial</th>
   <th>Kernel</th>
   <th>Description</th>
   </tr>
   <tr>
-  <td rowspan=2 align="center"><b>Beginner</b></td>
   <td>Getting Started with C Kernels</td>
   <td>C</td>
   <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed. </td>
@@ -71,15 +77,15 @@
   <td>These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. </td>
   </tr>
   </table>
+  
+  ## For Intermediate Users
   <table style="width:100%">
     <tr>
-  <th>Level</th>
   <th>Tutorial</th>
   <th>Kernel</th>
   <th>Description</th>
   </tr>
   <tr>
-<td rowspan=4 Align="center"><b>Intermediate</b></td>
 <td>Mixing C and RTL Kernels</td>
 <td>C and RTL</td>
 <td>That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
@@ -100,9 +106,11 @@
 <td>Some description here...</td>
 </tr>
 </table>
+</details>
 
-
-
+<details>
+  <summary>Click here to view Template 3</summary>
+  
 # Template 3
 <table style="width:100%">
   <tr>
@@ -149,11 +157,15 @@
 </tr>
 </table>
 
+</details>
 
 
 <hr/>
 
-# Template 3
+<details>
+  <summary>Click here to view Template 4</summary>
+
+# Template 4
 <table style="width:100%">
   <tr>
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -251,6 +263,7 @@ Where `SDAccel_Tutorials` is the name of the directory where the repository will
 - The source for this project is licensed under the ['Provide License Details'](./LICENSE)
 
  - To contribute to this project, follow the guidelines in the [Repository Contribution README](./CONTRIBUTING.md)
+
 </details>
 
 
@@ -259,7 +272,10 @@ Where `SDAccel_Tutorials` is the name of the directory where the repository will
 
 <hr/>
 
-# Template 3 (Obselete)  
+<details>
+  <summary>Click here to view Template 5 </summary>
+
+# Template 5 (Obselete)  
   <table style="width:100%">
     <tr>
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -308,5 +324,8 @@ Where `SDAccel_Tutorials` is the name of the directory where the repository will
   </tr>
 </table>
 <!--Authors: Content needs to go here-->
+
+</details>
+
 <hr/>
 <p align="center"><sup>Copyright&copy; 2018 Xilinx</sup></p>
