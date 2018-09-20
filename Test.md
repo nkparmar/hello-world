@@ -50,6 +50,65 @@
   <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
   </th>
   </tr>
+  </table>
+  
+  <table style="width:100%">
+  <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+  <td rowspan=2 align="center"><b>Beginner</b></td>
+  <td>Getting Started with C Kernels</td>
+  <td>C</td>
+  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed. </td>
+  </tr>
+  <tr>
+  <td>Getting Started with RTL Kernels</td>
+  <td>RTL</td>
+  <td>These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. </td>
+  </tr>
+  </table>
+  <table style="width:100%">
+    <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+<td rowspan=4 Align="center"><b>Intermediate</b></td>
+<td>Mixing C and RTL Kernels</td>
+<td>C and RTL</td>
+<td>That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>HLS Kernel optimizations</td>
+<td>C</td>
+<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+<tr>
+<td>Profiling with SDAccel</td>
+<td>C or RTL</td>
+<td>Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>Multiple DDR Banks</td>
+<td>C or RTL</td>
+<td>Some description here...</td>
+</tr>
+</table>
+
+
+
+# Template 3
+<table style="width:100%">
+  <tr>
+  <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+  </th>
+  </tr>
   <tr>
   <th>Level</th>
   <th>Tutorial</th>
