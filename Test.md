@@ -116,8 +116,68 @@
 
 <details>
   <summary>Click here to view Template 3</summary>
-  
+
 # Template 3
+<table style="width:100%">
+  <tr>
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+</th>
+</tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  </tr>
+  <tr>
+  <td rowspan=2 align="center"><b>Beginner</b></td>
+  <td><a href="">Getting Started with C Kernels</a></td>
+  <td>C</td>
+  </tr>
+
+  <tr>
+  <td><a href=""> Getting Started with RTL Kernels</a></td>
+  <td>RTL</td>
+  </tr>
+
+
+  <tr>
+<td rowspan=4 Align="center"><b>Intermediate</b></td>
+<td><a href="">Mixing C and RTL Kernels</a></td>
+<td>C and RTL</td>
+</tr>
+
+<tr>
+<td><a href="">HLS Kernel optimizations</a></td>
+<td>C</td>
+</tr>
+
+
+<tr>
+<td><a href="">Profiling with SDAccel</a></td>
+<td>C or RTL</td>
+</tr>
+
+
+<tr>
+<td><a href="">Multiple DDR Banks</a></td>
+<td>C or RTL</td>
+</tr>
+
+
+</table>
+
+</details>
+
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 4</summary>
+  
+# Template 4
 <table style="width:100%">
   <tr>
   <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -169,9 +229,9 @@
 <hr/>
 
 <details>
-  <summary>Click here to view Template 4</summary>
+  <summary>Click here to view Template 5</summary>
 
-# Template 4
+# Template 5
 <table style="width:100%">
   <tr>
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -279,9 +339,9 @@ Where `SDAccel_Tutorials` is the name of the directory where the repository will
 <hr/>
 
 <details>
-  <summary>Click here to view Template 5 </summary>
+  <summary>Click here to view Template 6 </summary>
 
-# Template 5 (Obselete)  
+# Template 6 (Obselete)  
   <table style="width:100%">
     <tr>
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
