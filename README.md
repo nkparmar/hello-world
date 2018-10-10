@@ -1,7 +1,7 @@
 <details>
   <summary>Click here to view Template 1</summary>
   
-# Template 2
+# Template 1
 <table style="width:100%">
   <tr>
   <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -62,9 +62,9 @@
 
 
 <details>
-  <summary>Click here to view Template 4</summary>
+  <summary>Click here to view Template 2</summary>
   
-# Template 4
+# Template 2
 <table style="width:100%">
   <tr>
   <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -116,9 +116,9 @@
 <hr/>
 
 <details>
-  <summary>Click here to view Template 5</summary>
+  <summary>Click here to view Template 3</summary>
 
-# Template 5
+# Template 3
 <table style="width:100%">
   <tr>
 <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
@@ -126,12 +126,7 @@
 </tr>
 </table>
 
-## Introduction
 Provide a brief overview of the tutorial(s) here.
-
-## Tutorials
-
-The following is the list of tutorials: `Feel free to edit`
 
 <table style="width:100%">
   <tr>
