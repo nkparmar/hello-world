@@ -1,172 +1,397 @@
-<div id="top" class="page" role="document">
-  <p>This is the beginning of the document</p>
-  </div>
-<article id="text__headings">
-            <header>
-              <h1>Headings</h1>
-            </header>
-            <div>
-              <h1>Heading 1</h1>
-              <h2>Heading 2</h2>
-              <h3>Heading 3</h3>
-              <h4>Heading 4</h4>
-              <h5>Heading 5</h5>
-              <h6>Heading 6</h6>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-</article>
-<article id="text__paragraphs">
-            <header><h1>Paragraphs</h1></header>
-            <div>
-              <p>A paragraph (from the Greek paragraphos, “to write beside” or “written beside”) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__blockquotes">
-            <header><h1>Blockquotes</h1></header>
-            <div>
-              <blockquote>
-                <p>A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text.</p>
-                <p>It is typically distinguished visually using indentation and a different typeface or smaller size quotation. It may or may not include a citation, usually placed at the bottom.</p>
-                <cite><a href="#!">Said no one, ever.</a></cite>
-              </blockquote>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__lists">
-            <header><h1>Lists</h1></header>
-            <div>
-              <h3>Definition list</h3>
-              <dl>
-                <dt>Definition List Title</dt>
-                <dd>This is a definition list division.</dd>
-              </dl>
-              <h3>Ordered List</h3>
-              <ol>
-                <li>List Item 1</li>
-                <li>List Item 2</li>
-                <li>List Item 3</li>
-              </ol>
-              <h3>Unordered List</h3>
-              <ul>
-                <li>List Item 1</li>
-                <li>List Item 2</li>
-                <li>List Item 3</li>
-              </ul>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__hr">
-            <header><h1>Horizontal rules</h1></header>
-            <div>
-              <hr>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__tables">
-            <header><h1>Tabular data</h1></header>
-            <table>
-              <caption>Table Caption</caption>
-              <thead>
-                <tr>
-                  <th>Table Heading 1</th>
-                  <th>Table Heading 2</th>
-                  <th>Table Heading 3</th>
-                  <th>Table Heading 4</th>
-                  <th>Table Heading 5</th>
-                </tr>
-              </thead>
-              <tfoot>
-                <tr>
-                  <th>Table Footer 1</th>
-                  <th>Table Footer 2</th>
-                  <th>Table Footer 3</th>
-                  <th>Table Footer 4</th>
-                  <th>Table Footer 5</th>
-                </tr>
-              </tfoot>
-              <tbody>
-                <tr>
-                  <td>Table Cell 1</td>
-                  <td>Table Cell 2</td>
-                  <td>Table Cell 3</td>
-                  <td>Table Cell 4</td>
-                  <td>Table Cell 5</td>
-                </tr>
-                <tr>
-                  <td>Table Cell 1</td>
-                  <td>Table Cell 2</td>
-                  <td>Table Cell 3</td>
-                  <td>Table Cell 4</td>
-                  <td>Table Cell 5</td>
-                </tr>
-                <tr>
-                  <td>Table Cell 1</td>
-                  <td>Table Cell 2</td>
-                  <td>Table Cell 3</td>
-                  <td>Table Cell 4</td>
-                  <td>Table Cell 5</td>
-                </tr>
-                <tr>
-                  <td>Table Cell 1</td>
-                  <td>Table Cell 2</td>
-                  <td>Table Cell 3</td>
-                  <td>Table Cell 4</td>
-                  <td>Table Cell 5</td>
-                </tr>
-              </tbody>
-            </table>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__code">
-            <header><h1>Code</h1></header>
-            <div>
-              <p><strong>Keyboard input:</strong> <kbd>Cmd</kbd></p>
-              <p><strong>Inline code:</strong> <code>&lt;div&gt;code&lt;/div&gt;</code></p>
-              <p><strong>Sample output:</strong> <samp>This is sample output from a computer program.</samp></p>
-              <h2>Pre-formatted text</h2>
-              <pre>P R E F O R M A T T E D T E X T
-  ! " # $ % &amp; ' ( ) * + , - . /
-  0 1 2 3 4 5 6 7 8 9 : ; &lt; = &gt; ?
-  @ A B C D E F G H I J K L M N O
-  P Q R S T U V W X Y Z [ \ ] ^ _
-  ` a b c d e f g h i j k l m n o
-  p q r s t u v w x y z { | } ~ </pre>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__inline">
-            <header><h1>Inline elements</h1></header>
-            <div>
-              <p><a href="#!">This is a text link</a>.</p>
-              <p><strong>Strong is used to indicate strong importance.</strong></p>
-              <p><em>This text has added emphasis.</em></p>
-              <p>The <b>b element</b> is stylistically different text from normal text, without any special importance.</p>
-              <p>The <i>i element</i> is text that is offset from the normal text.</p>
-              <p>The <u>u element</u> is text with an unarticulated, though explicitly rendered, non-textual annotation.</p>
-              <p><del>This text is deleted</del> and <ins>This text is inserted</ins>.</p>
-              <p><s>This text has a strikethrough</s>.</p>
-              <p>Superscript<sup>®</sup>.</p>
-              <p>Subscript for things like H<sub>2</sub>O.</p>
-              <p><small>This small text is small for for fine print, etc.</small></p>
-              <p>Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr></p>
-              <p><q cite="https://developer.mozilla.org/en-US/docs/HTML/Element/q">This text is a short inline quotation.</q></p>
-              <p><cite>This is a citation.</cite></p>
-              <p>The <dfn>dfn element</dfn> indicates a definition.</p>
-              <p>The <mark>mark element</mark> indicates a highlight.</p>
-              <p>The <var>variable element</var>, such as <var>x</var> = <var>y</var>.</p>
-              <p>The time element: <time datetime="2013-04-06T12:32+00:00">2 weeks ago</time></p>
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
-          <article id="text__comments">
-            <header><h1>HTML Comments</h1></header>
-            <div>
-              <p>There is comment here: <!--This comment should not be displayed--></p>
-              <p>There is a comment spanning multiple tags and lines below here.</p>
-              <!--<p><a href="#!">This is a text link. But it should not be displayed in a comment</a>.</p>
-              <p><strong>Strong is used to indicate strong importance. But, it should not be displayed in a comment</strong></p>
-              <p><em>This text has added emphasis. But, it should not be displayed in a comment</em></p>-->
-            </div>
-            <footer><p><a href="#top">[Top]</a></p></footer>
-          </article>
+:pushpin: We need to alter the file structure and ensure that all the files are in the same hierarchy. As per email from Thomas, the top-down and bottom-up approach is not valid anymore. Once the file hierarchy is set, we will have to add the cross-references to the selected template.
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 1</summary>
+
+# Template 1
+<table style="width:100%">
+  <tr>
+
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+</th>
+
+  </tr>
+  <tr>
+  <td width="50%" align="center" ><b>Bottom-Up RTL Workflow/Approach</b></td>
+    <td width="50%" align="center" ><b>Top-Down C Workflow/Approach</b></td>
+  </tr>
+  <tr>
+  <td align="center" colspan=2>For Beginners</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/getting-started.md">Getting Started with RTL Kernels</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/getting-started.md">Getting Started with C/C++ Kernels</a></td>
+  </tr>
+    <tr>
+  <td align="center" colspan=2>For Intermediate Users</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/mixing-c-rtl.md">Mixing C and RTL</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/mixing-c-rtl.md">Mixing C and RTL</a></td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/host-code-opt.md">Host Code Optimization</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/host-code-opt.md">Host Code Optimization</a></td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/vivado-opt.md">Vivado Optimization</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/hls-kernel-opt.md">HLS Kernel Optimization</a></td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/mult-ddr-banks.md">Multiple DDR Banks</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/mult-ddr-banks.md">Multiple DDR Banks</a></td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/using-mult-cu.md">Using Multiple CUs</a></td>
+    <td width="35%" align="center"><a href="./top-down-c/using-mult-cu.md">Using Multiple CUs</a></td>
+  </tr>
+</table>
+</details>
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 2</summary>
+  
+# Template 2
+<table style="width:100%">
+  <tr>
+  <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+  </th>
+  </tr>
+  </table>
+  
+  ## For Beginners
+  <table style="width:100%">
+  <tr>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+  <td>Getting Started with C Kernels</td>
+  <td>C</td>
+  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed. </td>
+  </tr>
+  <tr>
+  <td>Getting Started with RTL Kernels</td>
+  <td>RTL</td>
+  <td>These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. </td>
+  </tr>
+  </table>
+  
+  ## For Intermediate Users
+  <table style="width:100%">
+    <tr>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+<td>Mixing C and RTL Kernels</td>
+<td>C and RTL</td>
+<td>That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>HLS Kernel optimizations</td>
+<td>C</td>
+<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+<tr>
+<td>Profiling with SDAccel</td>
+<td>C or RTL</td>
+<td>Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>Multiple DDR Banks</td>
+<td>C or RTL</td>
+<td>Some description here...</td>
+</tr>
+</table>
+</details>
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 3</summary>
+
+# Template 3
+<table style="width:100%">
+  <tr>
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+</th>
+</tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  </tr>
+  <tr>
+  <td rowspan=2 align="center"><b>Beginner</b></td>
+  <td><a href="">Getting Started with C Kernels</a></td>
+  <td>C</td>
+  </tr>
+
+  <tr>
+  <td><a href=""> Getting Started with RTL Kernels</a></td>
+  <td>RTL</td>
+  </tr>
+
+
+  <tr>
+<td rowspan=4 Align="center"><b>Intermediate</b></td>
+<td><a href="">Mixing C and RTL Kernels</a></td>
+<td>C and RTL</td>
+</tr>
+
+<tr>
+<td><a href="">HLS Kernel optimizations</a></td>
+<td>C</td>
+</tr>
+
+
+<tr>
+<td><a href="">Profiling with SDAccel</a></td>
+<td>C or RTL</td>
+</tr>
+
+
+<tr>
+<td><a href="">Multiple DDR Banks</a></td>
+<td>C or RTL</td>
+</tr>
+
+
+</table>
+
+</details>
+
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 4</summary>
+  
+# Template 4
+<table style="width:100%">
+  <tr>
+  <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+  </th>
+  </tr>
+  <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+  <td rowspan=2 align="center"><b>Beginner</b></td>
+  <td>Getting Started with C Kernels</td>
+  <td>C</td>
+  <td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed. </td>
+  </tr>
+  <tr>
+  <td>Getting Started with RTL Kernels</td>
+  <td>RTL</td>
+  <td>These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation. Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. </td>
+  </tr>
+  <tr>
+<td rowspan=4 Align="center"><b>Intermediate</b></td>
+<td>Mixing C and RTL Kernels</td>
+<td>C and RTL</td>
+<td>That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>HLS Kernel optimizations</td>
+<td>C</td>
+<td>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+<tr>
+<td>Profiling with SDAccel</td>
+<td>C or RTL</td>
+<td>Think of them merely as actors on a paper stage, in a performance devoid of content yet rich in form. That being the case, there is really no point in your continuing to read them. After all, you have many other things you should be doing. </td>
+</tr>
+<tr>
+<td>Multiple DDR Banks</td>
+<td>C or RTL</td>
+<td>Some description here...</td>
+</tr>
+</table>
+
+</details>
+
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 5</summary>
+
+# Template 5
+<table style="width:100%">
+  <tr>
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+</th>
+</tr>
+</table>
+
+## Introduction
+Provide a brief overview of the tutorial(s) here.
+
+## Tutorials
+
+The following is the list of tutorials: `Feel free to edit`
+
+<table style="width:100%">
+  <tr>
+  <th>Level</th>
+  <th>Tutorial</th>
+  <th>Kernel</th>
+  </tr>
+  <tr>
+  <td rowspan=4 align="center"><b>Beginner</b></td>
+  <td><a href="">Getting Started with C Kernels</a></td>
+  <td>C</td>
+  </tr>
+  <tr>
+  <td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+  </tr>
+
+  <tr>
+  <td><a href=""> Getting Started with RTL Kernels</a></td>
+  <td>RTL</td>
+  </tr>
+
+  <tr>
+  <td colspan=2 width=100%><sup>We can even reduce the font size. Something like this! This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</sup></td>
+  </tr>
+
+  <tr>
+<td rowspan=8 Align="center"><b>Intermediate</b></td>
+<td><a href="">Mixing C and RTL Kernels</a></td>
+<td>C and RTL</td>
+</tr>
+<tr>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+
+<tr>
+<td><a href="">HLS Kernel optimizations</a></td>
+<td>C</td>
+</tr>
+
+<tr>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+
+<tr>
+<td><a href="">Profiling with SDAccel</a></td>
+<td>C or RTL</td>
+</tr>
+
+<tr>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+
+<tr>
+<td><a href="">Multiple DDR Banks</a></td>
+<td>C or RTL</td>
+</tr>
+
+<tr>
+<td colspan=2 width=100%>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.  These words are here to provide the reader with a basic impression of how actual text will appear in its final presentation.</td>
+</tr>
+
+</table>
+
+
+## Hardware and Software Requirements
+
+The SDAccel tutorials are designed to work with Zynq UltraScale+ MPSoCs. The tutorials have been verified on `provide details of boards tested or recommended` boards. Xilinx [SDSoC 2018.2 Development Environment](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/sdx-development-environments.html) is required to work with the tutorials.
+
+
+## How to Download the Repository
+
+To get a local copy of the SDSoC tutorials, clone this repository to the local system with the following command:
+``` sh
+git clone https://github.com/Xilinx/SDAccel_Tutorials.git SDAccel_Tutorials
+```
+Where `SDAccel_Tutorials` is the name of the directory where the repository will be stored on the local system. This command needs to be executed only once to retrieve the latest version of the SDAccel tutorials.
+
+## Additional Resources and Support
+
+- For questions and to get help on this project or your own projects, visit the [SDAccel_Tutorials Github Issues](https://github.com/Xilinx/SDAccel_Tutorials/issues).
+
+- The source for this project is licensed under the ['Provide License Details'](./LICENSE)
+
+ - To contribute to this project, follow the guidelines in the [Repository Contribution README](./CONTRIBUTING.md)
+
+</details>
+
+
+
+
+
+<hr/>
+
+<details>
+  <summary>Click here to view Template 6 </summary>
+
+# Template 6 (Obselete)  
+  <table style="width:100%">
+    <tr>
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDAccel Development Environment Tutorials</h2>
+</th>
+
+  </tr>
+  <tr>
+  <td width="50%" align="center" colspan=2><b>Bottom-Up RTL Workflow/Approach</b></td>
+    <td width="50%" align="center" colspan=2><b>Top-Down C Workflow/Approach</b></td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/getting-started.md">Getting Started with RTL Kernels</a></td>
+    <td width="15%" align="center">Beginner</td>
+    <td width="35%" align="center"><a href="./top-down-c/getting-started.md">Getting Started with C/C++ Kernels</a></td>
+    <td width="15%" align="center">Beginner</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="mixing-c-rtl.md">Mixing C and RTL</a></td>
+    <td width="15%" align="center">Intermediate</td>
+    <td width="35%" align="center"><a href="mixing-c-rtl.md">Mixing C and RTL</a></td>
+    <td width="15%" align="center">Intermediate</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="host-code-opt.md">Host Code Optimization</a></td>
+    <td width="15%" align="center">Intermediate</td>
+    <td width="35%" align="center"><a href="host-code-opt.md">Host Code Optimization</a></td>
+    <td width="15%" align="center">Intermediate</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="./bottom-up-rtl/vivado-opt.md">Vivado Optimization</a></td>
+    <td width="15%" align="center">Intermediate</td>
+    <td width="35%" align="center"><a href="./top-down-c/hls-kernel-opt.md">HLS Kernel Optimization</a></td>
+    <td width="15%" align="center">Intermediate</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="mult-ddr-banks.md">Multiple DDR Banks</a></td>
+    <td width="15%" align="center">Intermediate</td>
+    <td width="35%" align="center"><a href="mult-ddr-banks.md">Multiple DDR Banks</a></td>
+    <td width="15%" align="center">Intermediate</td>
+  </tr>
+  <tr>
+    <td width="35%" align="center"><a href="using-mult-cu.md">Using Multiple CUs</a></td>
+    <td width="15%" align="center">Intermediate</td>
+    <td width="35%" align="center"><a href="using-mult-cu.md">Using Multiple CUs</a></td>
+    <td width="15%" align="center">Intermediate</td>
+  </tr>
+</table>
+<!--Authors: Content needs to go here-->
+
+</details>
+
+<hr/>
+<p align="center"><sup>Copyright&copy; 2018 Xilinx</sup></p>
