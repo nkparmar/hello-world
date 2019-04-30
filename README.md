@@ -1,5 +1,5 @@
 # plantuml
-![system overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/amantalwar04/hello-world/master/images/overview.iuml)
+![system overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/amantalwar04/hello-world/master/images/esp8266.iuml)
 
 
 # Online graphics
