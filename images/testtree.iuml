@@ -1,0 +1,27 @@
+@startsalt
+
+{
+    {T
+* ws_of
+** gst
+*** allocators
+**** gstsdxallocator.c
+**** gstsdxallocator.h
+*** apps
+**** optical_flow
+***** main.c
+*** base
+**** gstsdxbase.c
+**** gstsdxbase.h
+*** plugins
+**** optical_flow
+***** gstsdxopticalflow.cpp
+***** gstsdxopticalflow.h
+** opticalflow
+*** src
+**** optical_flow_sds.cpp
+**** optical_flow_sds.h    
+     }
+}
+
+@endsalt
