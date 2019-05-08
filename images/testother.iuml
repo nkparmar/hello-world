@@ -27,7 +27,7 @@ node "Middle Tier" {
     
 } 
 
-database "PostgreSQL\n" {
+database "Access\n" {
     [Stored Procs]
 }
 
