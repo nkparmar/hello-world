@@ -1,4 +1,4 @@
-# plantuml
+# plantuml demos
 ## Example 1:
 ![Tree view 1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/amantalwar04/hello-world/master/images/testother.iuml)
 ## Example 2:
