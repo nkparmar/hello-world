@@ -1,0 +1,4 @@
+repositories:
+  create_new:
+    1. In the upper-right corner of any page, click {% raw %}{{ octicon-plus Plus symbol }}{% endraw %}, and then click **New repository**.
+      ![New repository menu](/assets/images/help/repository/repo-create.png)
